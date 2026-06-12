@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Muhamad Nur Salam 👋
 
-<!--
-**Lam89-Pass/Lam89-Pass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Informatics Engineering Student at Universitas Pasundan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interested in Cyber Security & Digital Forensics
+
+🌐 Web Developer
+
+🤖 Exploring Artificial Intelligence
+
+🚀 Active in Google Developer Groups
+
+---
+
+## Tech Stack
+
+HTML
+CSS
+JavaScript
+PHP
+Laravel
+Java
+MySQL
+Git
+Linux
+
+---
+
+## Current Focus
+
+- Cyber Security
+- Web Development
+- AI
+- Educational Game Development
+
+---
+
+## Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/muhamadnursalam
+
+Portfolio:
+https://webkangalam.com
