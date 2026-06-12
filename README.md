@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lam89-Pass/Lam89-Pass/main/assets/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Lam89-Pass/Lam89-Pass/assets/banner.png" width="100%">
 
 # 👋 Hi, I'm Muhamad Nur Salam
 
